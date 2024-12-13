@@ -16,7 +16,7 @@ namespace winform_241213
         {
             InitializeComponent();
             textBox_point.Text = "집가고싶다\r집가고싶다\n집가고시다\r\n집가고시다";
-            int a = 23;
+            int a = 23123;
         }
 
     }
