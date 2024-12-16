@@ -41,6 +41,7 @@
             this.textBox_point.Name = "textBox_point";
             this.textBox_point.Size = new System.Drawing.Size(776, 415);
             this.textBox_point.TabIndex = 0;
+            this.textBox_point.MouseUp += new System.Windows.Forms.MouseEventHandler(this.textBox_point_MouseUp);
             // 
             // Form1
             // 
