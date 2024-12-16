@@ -21,7 +21,7 @@ namespace winform_241213
 
         private void textBox_point_MouseUp(object sender, MouseEventArgs e)
         {
-            textBox_point.Text = "집가고싶다\r집가고싶다\n집가고시다\r\n집가고시다";
+            textBox_point.Text = "집가고싶다\r집가고싶다\n집가고시다\r\n집가고시다ㄴ";
         }
     }
 }
